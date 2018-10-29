@@ -19,8 +19,7 @@ body {
   text-align: center;
   font-weight: 100;
   color: white;
-  vertical-align: middle;
-  line-height: 140vh;
+  padding-top: 8%;
   margin: 0;
 }
 
@@ -29,6 +28,6 @@ body {
   height: auto;
   display: block;
   margin: auto;
-  padding-top: 20%;
+  padding-top: 40vh;
 
 }
